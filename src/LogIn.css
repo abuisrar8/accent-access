@@ -11,4 +11,13 @@
     
 
 }
-
+.LoginPage button {
+    width: 70px;
+    height: 30px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    background-color:rgb(13, 228, 160);
+    border-radius: 7px;
+    margin-top: 5%;
+}
