@@ -1,0 +1,48 @@
+
+
+.letterbody {
+    
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    height: max-content;
+    grid-gap: 1em;
+    padding: 10%;
+
+    background-color: rgb(238, 237, 238);
+    
+    
+}
+.letter {
+    height: 84vh;
+    overflow-y: scroll;
+}
+.letter::-webkit-scrollbar {
+    width: 10px;
+    
+   
+     
+  }
+.letter::-webkit-scrollbar-thumb {
+    background: rgba(99, 137, 214, 0.777);
+    
+}
+.gridLetter {
+    background-color: rgb(108, 134, 238);
+    padding: 2%;
+    height: 10rem;
+    width: 1fr;
+    
+    padding: 10%;
+
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    border-radius: 1rem;
+    
+}

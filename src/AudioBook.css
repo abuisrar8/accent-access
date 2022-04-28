@@ -1,0 +1,77 @@
+.audioBook{
+    display: flex;
+    flex-direction: row;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 80vh;
+    overflow: hidden;
+    justify-content: space-around;
+
+}
+.iframes>iframe{
+    width: 300px;
+    height: 350px;
+   
+}
+    
+.iframes{
+    display:flex;
+    width: 52%;
+    flex-wrap: wrap;
+    background-color: rgb(231, 238, 245);
+    
+    justify-content: space-around;
+    overflow: scroll;
+
+    
+
+}
+.iframes::-webkit-scrollbar {
+    width: 5px;
+    height: 8px;
+   
+     
+  }
+.iframes::-webkit-scrollbar-thumb {
+    background: rgba(99, 137, 214, 0.777);
+}
+.player{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    
+}
+.player .img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    background-size: contain;
+    margin-right: 1rem;
+}
+.storybook {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(233, 247, 247);
+    border: 1rem;
+    border-color: gray;
+    height: auto;
+    overflow-x: scroll;
+    align-items: center;
+}
+.player{
+    margin-right: 1rem;
+}
+.player:hover{
+    background-color: rgb(143, 196, 247);
+    border-radius: 1rem;
+    transition: .5s;
+}
+.storybook::-webkit-scrollbar {
+    width: 5px;
+    height: 8px;
+   
+     
+  }
+.storybook::-webkit-scrollbar-thumb {
+    background: rgba(99, 137, 214, 0.777);
+}

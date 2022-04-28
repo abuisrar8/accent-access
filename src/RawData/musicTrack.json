@@ -1,0 +1,52 @@
+[
+    {
+      "name": "The Persian part 1",
+      "src": "https://ia802205.us.archive.org/8/items/thepersians_1404_librivox/persians_1_aeschylus_64kb.mp3" ,
+      "url": "https://ia800908.us.archive.org/8/items/LibrivoxCdCoverArt33/the_persians_1404.jpg"
+    },
+    {
+      "name": "The Persian part 2",
+      "src": "https://ia802205.us.archive.org/8/items/thepersians_1404_librivox/persians_2_aeschylus_64kb.mp3" ,
+      "url": "https://ia800908.us.archive.org/8/items/LibrivoxCdCoverArt33/the_persians_1404.jpg"
+    },
+    {
+      "name": "The Alchemist part 1",
+      "src": "https://ia600605.us.archive.org/25/items/alchemist_1207_librivox/alchemist_1_jonson_64kb.mp3" ,
+      "url": "https://ia800300.us.archive.org/15/items/LibrivoxCdCoverArt21/Alchemist_The_1207.jpg"
+    },
+    {
+      "name": "The Alchemist part 1",
+      "src": "https://ia600605.us.archive.org/25/items/alchemist_1207_librivox/alchemist_2_jonson_64kb.mp3" ,
+      "url": "https://ia800300.us.archive.org/15/items/LibrivoxCdCoverArt21/Alchemist_The_1207.jpg"
+    },
+    {
+        "name": "The Alchemist part 3",
+        "src": "https://ia600605.us.archive.org/25/items/alchemist_1207_librivox/alchemist_3_jonson_64kb.mp3" ,
+        "url": "https://ia800300.us.archive.org/15/items/LibrivoxCdCoverArt21/Alchemist_The_1207.jpg"
+      },
+      {
+        "name": "The Alchemist part 4",
+        "src": "https://ia600605.us.archive.org/25/items/alchemist_1207_librivox/alchemist_4_jonson_64kb.mp3" ,
+        "url": "https://ia800300.us.archive.org/15/items/LibrivoxCdCoverArt21/Alchemist_The_1207.jpg"
+      },
+      {
+        "name": "The Alchemist part 5",
+        "src": "https://ia600605.us.archive.org/25/items/alchemist_1207_librivox/alchemist_5_jonson_64kb.mp3" ,
+        "url": "https://ia800300.us.archive.org/15/items/LibrivoxCdCoverArt21/Alchemist_The_1207.jpg"
+      },
+      {
+        "name": "Grimm's Fairy Stories :THE GOOSE-GIRL ",
+        "src": "https://www.archive.org/download/grimmsfairystories_2201_librivox/grimmsfairystories_01_grimm_64kb.mp3" ,
+        "url": "https://archive.org/download/grimmsfairystories_2201_librivox/fairystories_2201.jpg"
+      },
+      {
+        "name": "Grimm's Fairy Stories :THE LITTLE BROTHER AND SISTER ",
+        "src": "https://www.archive.org/download/grimmsfairystories_2201_librivox/grimmsfairystories_02_grimm_64kb.mp3" ,
+        "url": "https://archive.org/download/grimmsfairystories_2201_librivox/fairystories_2201.jpg"
+      },
+      {
+        "name": "Grimm's Fairy Stories :HANSEL AND GRETHEL ",
+        "src": "https://www.archive.org/download/grimmsfairystories_2201_librivox/grimmsfairystories_03_grimm_64kb.mp3" ,
+        "url": "https://archive.org/download/grimmsfairystories_2201_librivox/fairystories_2201.jpg"
+      }
+  ]

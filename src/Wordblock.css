@@ -1,0 +1,34 @@
+.Wordblock {
+    
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    padding-right: 20vw;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 5px;
+    margin: auto;
+    color: rgb(24, 34, 61);
+    
+}
+.Wordblock:hover{
+    background-color: rgb(194, 237, 244);
+    transition: .5s;
+    border-radius: 1rem;
+    padding-left: 1px;
+}
+.Wordblock button{
+    margin-top: 3vh;
+    width: 5vw;
+    height: 3vh;
+    min-width:fit-content;
+    border: none;
+    background-color: rgb(89, 138, 218);
+    color: aliceblue;
+    font-size: larger;
+    border-radius: 5px;
+
+}
+.Wordblock button:hover{
+    padding-left: 1px;
+}

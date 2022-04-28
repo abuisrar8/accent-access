@@ -1,0 +1,55 @@
+.sentence {
+    display: flex;
+    flex-direction: row;
+    padding-left: 10%;
+    /*padding-right: 10%;*/
+    justify-content:center;
+    background-color: rgb(236, 240, 245); 
+}
+.sentence .left{
+    
+    /* margin-right: 2rem;
+    height: 80vh;
+    overflow-x: scroll;
+     */
+    width: auto;
+    height: 84vh;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+
+   
+}
+
+.sentence .left::-webkit-scrollbar {
+    width: 5px;
+    
+    
+   
+     
+  }
+
+    
+
+.sentence .left .sidebar {
+    
+    display: grid;
+    grid-gap: 1em;
+
+    text-align: center;
+    
+
+}
+.sentence .left .gridLetter{
+    
+    font-size: large;
+    padding:auto;
+    height: 5rem;
+    min-width: 55px;
+    font-size: 1.5rem;
+    
+    
+}
+.gridLetter:hover{
+    background-color: aquamarine;
+    transition: .5s;
+}
