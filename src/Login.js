@@ -22,7 +22,7 @@ function LogIn() {
             clientId="984245244691-9h595ughd43incve5578o6lum8nnmcck.apps.googleusercontent.com"
             buttonText="Login"
             onSuccess={response}
-            onFailure={response}
+//             onFailure={response}
             cookiePolicy={'single_host_origin'}
           />
           </div>
